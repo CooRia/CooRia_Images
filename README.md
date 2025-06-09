@@ -1,2 +1,2 @@
 # CooRia_Images
-my images
+自用
